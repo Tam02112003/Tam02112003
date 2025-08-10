@@ -15,9 +15,8 @@
 
 ## 🔥 Featured Projects
 - [Personal Profile Repository](https://github.com/Tam02112003/profile)
-- [Chatbot Project](https://github.com/Tam02112003/chatbot)
-- [Deep Learning Models](https://github.com/Tam02112003/deep-learning)
-- [Web Development Portfolio](https://github.com/Tam02112003/portfolio)
+- [Chatbot Project]([https://github.com/Tam02112003/chatbot](https://github.com/Tam02112003/Chatbot_Hybrid-Retrieval))
+- [Web Development Portfolio]([https://github.com/Tam02112003/portfolio](https://tam02112003.github.io/NguyenMinhTam-Website/))
 
 ## 🚀 Analysis & Introductions
 Nguyen Minh Tam is an active GitHub user with a passion for software development in various domains, including Python, deep learning, and web applications. Despite the absence of a bio, their substantial contributions demonstrate enthusiasm and dedication to creating innovative projects and collaborating within the GitHub community.
